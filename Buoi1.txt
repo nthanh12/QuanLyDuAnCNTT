@@ -1,0 +1,26 @@
+Mô hình Scrum/ Jira
+
+Interest
+- Khái niệm và nguyên tắc trong việc quản lý dự án
+- Quy trình và số liệu của dự án: mô hình
+- Cơ sở đưa ra quyết định quản lý một cách hiệu quả: đứng ở vai trò người quản lý
+- Các kĩ thuật được sử dụng để:
+	+ Ước tính chi phí:
+	+ Yêu cầu tài nguyên
+	+ Thiết lập kế hoạch dự án hiệu quả
+- Giám sát, giảm thiểu và quản lý rủi ro
+- Các hoạt động cần thiết để xác định tác vụ trong dự án và thiết lập lịch trình dự án khả thi
+- Kĩ thuật để đảm bảo chất lượng và kiểm soát sự thay đổi
+-----------------------
+People/ Product/ Process/ Project
+1. People
+	* People - Player: Vai trò trong một dự án phần mềm
+- Senior managers: người quản lý cấp cao xác định vấn đề (Sếp)
+- Project managers: người trực tiếp quản lý dự án phần mềm, lập kế hoạch thúc đẩy, động viên, tổ chức và kiểm soát những người thực hiện phần mềm
+- Practitioners: người trực tiếp cung cấp các kĩ năng về kĩ thuật cần thiết để thiết kế một sản phẩm hoặc ứng dụng
+- Customers: xác định yêu cầu đối với phần mềm được thiết kế
+- End-users: người tương tác với phần mềm sau khi được phát hành
+	* People - Team leader
+- Motivation: Tạo động lực, khả năng khuyến khích "push or pull" những người sản xuất với khả năng tốt nhất của họ
+- Organization: khả năng tổ chức, đặt vào các quy trình hiện có hoặc phát minh ra những quy trình mới, biến khái niệm ban đầu thành sản phẩm cuối cùng
+- Ideas or innovation: ý tưởng hoặc những sự đổi mới

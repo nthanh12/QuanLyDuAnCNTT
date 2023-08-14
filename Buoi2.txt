@@ -1,0 +1,44 @@
+	* People - Sortware Team
+- Để đạt được một nhóm có hiệu suất làm việc cao:
++ Các thành viên trong nhóm phải tin tưởng lẫn nhau
++ Việc phân bổ các kĩ năng phải phù hợp với từng vấn đề
++ Những người có suy nghĩ khác thì có thể bị cho rời khỏi đội
+
+	* Key concepts - Product
+- Phạm vi thì được xác định bằng cách trả lời những câu hỏi như:
++ Bối cảnh: Làm thế nào để phần mềm xây dựng phù hợp với một hệ thống, một sản phẩm hay một nghiệp vụ lớn và những ràng buộc nào được áp đặt cho bối cảnh đó
++ Mục tiêu thông tin: Các đối tượng dữ liệu hiển thị cho khách hàng được tạo ra như kết quá của phần mềm là gì (Output), những đối tượng dữ liệu nào được yêu cầu cho đầu vào? 
++ Chức năng và hiệu suất: Phần mềm thực hiện chức năng gì để biến đổi dữ liệu đầu vào thành đầu ra? Có bất kì đặc điểm hiệu suất đặc biệt nào cần được giải quyết không?
+- Phân tách vấn đề là một hoạt động nằm ở cốt lõi của phân thúc yêu cầu phần mềm
+	* Key concepts - Process
+- Mô hình tuần tự tuyến tính (Mô hình thác nước)
+- Mô hình bản mẫu
+- Mô hình tăng trưởng
+- Mô hình xoắn ốc
+- Mô hình phát triển dựa trên thành phần: Tập trung sử dụng thành phần có sẵn để phát triển phần mềm
+- Mô hình phát triển thế hệ thứ tư: Sử dụng các công cụ tự động hóa để sinh ra code
+	* Process - Framework activities
+- Cộng đồng khách hàng
+- Lên kế hoạch
+- Phân tích rủi ro cả về kĩ thuật và quản lý
+- Các tác vụ kĩ thuật cần thiết để xây dựng một hoặc nhiều phiên bản
+- Xây dựng phần mềm và phát triển các tác vụ cần thiết để xây dựng, kiểm thử, cài đặt và cung cấp hỗ trợ người dùng 
+- Các tác vụ đánh giá từ phía khách hàng thu thập đánh giá từ khách hàng dựa trên các phiên bản phần mềm được tạo ra trong quá tình phát triển và triển khai
+	* Process - Decomposition
+	Customer communitcation activity (48h - small project)
+1. Xây dựng các danh sách vấn đề cần làm rõ
+2. Gặp gỡ khách hàng để giải quyết vấn đề
+3. Cùng phát triển một bản báo cáo về phạm vi
+4. Xem lại báo cáo về phạm vi với tất cả những người liên quan
+5. Sửa đổi báo cáo về phạm vi theo yêu cầu
+
+1. Xem lại các yêu cầu cảu khách hàng
+2. Lập kế hoạch và sắp xếp cuộc họp chính thức thuận lợi cho khách hàng
+3. Tiến hành nghiên cứu để xác định giải pháp được đề xuất và các phương pháp tiếp cận hiện có 
+4. Chuẩn bị tài liệu làm việc và kịch bản chương trình cho phù hợp
+5. Gặp gỡ khách hàng
+6. Tham gia phát triển phản ánh dữ liệu, chức năng và tính năng của phần mềm
+7. Xem lại từng đặc tả nhỏ để đảm bảo tính chính xác, nhất quán và không mơ hồ
+8. Tập hợp các mô tả nhỏ vào một tài liệu phạm vi
+9. cùng xem lại tài liệu phạm vi với tất cả những người liên quan
+10. Sửa đổi tài liệu phạm vi theo yêu cầu

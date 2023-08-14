@@ -1,0 +1,19 @@
+	* Process - What can go wrong in a project?
+1. Những người làm phần mềm không hiểu rõ yêu cầu của khách hàng
+2. Phạm vi sản phẩm được xác định kém
+3. Quản lý thay đổi kém
+4. Công nghệ đã chọn thay đổi
+5. Yêu cầu nghiệp vụ thay đổi
+6. Thời hạn là không thực tế
+7. Người dùng không hợp tác
+8. Sự tài trợ bị mất
+9. Các nhà quản lý và các học viên tránh các thực tiễn tốt nhất và bài học kinh nghiệm
+10. Người quản lý không thực sự cống hiến những gì người ta có cho dự án
+
+	* Key concerpt - Project
+- Start on the right foot
+	Được thể hiện bằng cách làm việc chăm chỉ đến rất chăm chỉ để có thể hiểu rõ được vấn đề cần giải quyết sau đó đặt ra mực tiêu, kì vọng thực tế cho những người tham gia dự án	
+- Maintain momentum
+	Duy trì đà phát triển, những người quản lý dự án phải nâng cấp động cơ để giữ sự luân chuyển nhân sự ở mức tối thiểu, đội ngũ phải nhấn mạnh vào chất lượng trong mọi nhiệm vụ mình có thể thực hiện, và người quản lý cấp cao phải làm mọi việc có thể để tránh can thiệp vào con đường của nhóm
+	
+	Tìm hiểu về mô hình scrum, viết báo cáo, tìm hiểu công cụ jira
