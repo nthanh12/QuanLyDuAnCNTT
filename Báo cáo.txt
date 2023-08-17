@@ -1,0 +1,24 @@
+	Báo cáo môn học Quản lý dự án công nghệ thông tin
+Chúng ta có thể tóm tắt Nhóm Scrum với 3 vai trò, 5 sự kiện và 3 tạo tác.
+
+	* Nhóm Scrum (hay Scrum Team) gồm 3 vai trò:
+
+- Product Owner: là người chịu trách nhiệm tối ưu hóa lợi nhuận trên đầu tư (ROI - Return On Investment) thông qua việc quyết định các tính năng của sản phẩm, đánh giá và sắp xếp độ ưu tiên của từng hạng mục.
+- Scrum Master: có vai trò then chốt giúp nhóm Scrum làm việc hiệu quả bằng cách tuân thủ nguyên lý, các kỹ thuật và quy tắc của Scrum. Scrum Master không phải là người quản lý của Nhóm mà là một lãnh đạo theo phong cách phục vụ (Servant Leader).
+- Nhà phát triển: là đội ngũ trực tiếp làm ra sản phẩm, họ bao gồm các chuyên gia có nhiệm vụ chuyển giao phần tăng trưởng ở cuối mỗi Sprint. Các Nhà phát triển không có sự phân chia các chức danh chuyên môn đặc thù cho từng thành viên, ví dụ như: kiểm thử viên, lập trình viên, chuyên gia thiết kế, chuyên gia cơ sở dữ liệu,… mà tất cả đều được gọi chung là Nhà phát triển. Việc này giúp nâng cao tính sở hữu tập thể, trách nhiệm tập thể và bình đẳng giữa các thành viên.
+	* 5 Sự kiện trong Scrum bao gồm:
+
+- Sprint: như đã nói ở trên, nó là trái tim của Scrum có độ dài cố định về thời gian và diễn ra liên tục, bắt đầu ngay sau khi kết thúc sprint trước.
+- Lập kế hoạch Sprint (Sprint Planning): Là sự kiện diễn ra đầu Sprint để lên kế hoạch làm việc cho toàn bộ Sprint. Sự kiện này được chia làm 3 phần với 3 mục đích rõ ràng:
+	Phần 1: nhằm trả lời câu hỏi "Why - Tại sao chúng ta làm những thứ này?" - điều này được trình bày bởi Product Owner và sau đó cả nhóm sẽ thống nhất để xác định rõ Mục tiêu của Sprint (Sprint Goal).
+	Phần 2: trả lời cho câu hỏi "What - Chúng ta sẽ hoàn thành những gì?". Thông qua việc trao đổi với Product Owner, các Nhà phát triển sẽ lựa chọn những hạng mục từ Product Backlog để phát triển trong Sprint hiện tại.
+	Phần 3: sẽ trả lời câu hỏi "How - Chúng ta sẽ làm như thế nào?". Đối với mỗi hạng mục được lựa chọn, các Nhà phát triển sẽ lên kế hoạch các công việc cụ thể để hoàn thành được mục tiêu Sprint (Sprint Goal).
+	3 câu hỏi "Why - What - How" sẽ giúp 1 Sprint diễn ra hiệu quả và rõ ràng hơn. Các Nhà Phát triển có quyền quyết định lựa chọn những hạng mục mà mình sẽ làm, không ai được phép can thiệp và gán công việc cho nhóm, kể cả Product Owner hay các lãnh đạo khác. Kết quả của buổi Lập kế hoạch Sprint là: Mục tiêu Sprint và Sprint Backlog.
+- Scrum Hằng ngày (Daily Scrum): Là buổi gặp mặt ngắn 15 phút hằng ngày của tất cả các thành viên Nhóm Phát triển để thanh tra và tái lập kế hoạch cho nhóm. Để giữ đơn giản và tạo thói quen thì các buổi Scrum Hằng ngày phải diễn ra tại cùng một địa điểm vào cùng một khung thời gian. Scrum Master không bắt buộc tham dự nhưng phải đảm bảo Nhóm Phát triển đang thực hiện tốt sự kiện này.
+- Sơ kết Sprint (Sprint Review): Là sự kiện diễn ra ở cuối Sprint nhằm thanh tra và thích nghi sản phẩm đang được xây dựng. Toàn bộ Nhóm Scrum (bao gồm Product Owner, Scrum Master và Nhóm Phát triển) tham dự sự kiện này. Product Owner có thể mời thêm những người khác cùng tham gia. Sự kiện này bao gồm 2 hoạt động chính đó là dùng thử sản phẩm và thảo luận về tình hình của sản phẩm, hướng đi tiếp theo và những điều chỉnh đối với sản phẩm nếu cần thiết. Product Backlog và Kế hoạch Phát hành có thể được điều chỉnh sau sự kiện này.
+- Cải tiến Sprint (Sprint Retrospective): Diễn ra sau sự kiện Sơ kết Sprint nhằm thanh tra và thích nghi quy trình làm việc. Nói ngắn gọn, sự kiện này là để cải tiến cách làm việc. Nhóm Phát triển và Scrum Master bắt buộc tham gia sự kiện này. Product Owner có thể tham gia hoặc không. Nhóm Phát triển có thể mời thêm những người khác tham dự. Kết quả của buổi làm việc này là một danh sách các thay đổi về cách làm việc được đưa vào áp dụng ngay trong Sprint tiếp theo.
+3 tạo tác - Artifacts:
+
+Product Backlog: Là danh sách các hạng mục được sắp xếp thứ tự cần làm để cải tiến sản phẩm, thường được quản lý bởi Product Owner.
+Sprint Backlog: Chính là mục tiêu cần làm của 1 sprint (why), là tập hợp các hạng mục được chọn từ product backlog (what) mà có thể hoàn thành và giao cho khách hàng như một phần tăng trưởng.
+Increment: Là phần được hoàn thành và giao cho khách hàng sau mỗi sprint có thể sử dụng được.

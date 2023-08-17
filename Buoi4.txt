@@ -1,0 +1,40 @@
+Yếu tố quyết định cho chất lượng phần mềm
+1. Kiến thức và kỹ năng
+2. Quy trình phát triển
+3. Kiểm thử
+4. Mã nguồn, source code
+5. Tương tác người dùng
+
+-----------------------------------------
+- Sự phân công nhiệm vụ phù hợp
+- Giao diện
+- Làm việc nhóm
+----------------------------
+	Chương 2: Số liệu dự án và đo lường phần mềm
+	* Mục tiêu của đo lường phần mềm
+- Hỗ trợ ước lượng, kiểm soát chất lượng, đánh giá hiệu suất, kiểm soát dự án
+- Có thể được các kĩ sư phần mềm sử dụng để giúp đánh giá chất lượng của các sản phẩm công việc kĩ thuật và hỗ trợ đưa ra quyết định chiến lược khi dự án tiến hành
+	* Các bước
+- Xác định 1 tập các số liệu đo lường về quy trình, dự án, sản phẩm mà dễ dàng thu thập (thông thường được chuẩn hóa bằng cách sử dụng số liệu hướng kích thước hoặc hướng chức năng)
+- Kết quả được phân tích và so sánh với các số liệu trung bình trong quá khứ của các dự án tương tự đã thực hiện
+- Xu hướng được đánh giá và kết luận được tạo ra
+	* Các khái niệm
+- Một hành động đo lường cung cấp một chỉ số số lượng về mức độ số lượng kích thước, khả năng, kích cỡ của một vài thuộc tính nào đó của sản phẩm hoặc quy trình
+- Việc đo lường là hành động xác định một số liệu đo lường về mức độ mà một hệ thống thành phần hoặc quy trình
+- Một số liệu phần mềm liên quan đến các biện pháp riêng lẻ trong một số cách thức (số liệu quy trình, dự án và sản phẩm)
+- Chỉ số là một thước đo hoặc là sự kết hợp của các thước đo cung cấp hiểu biết về quy trình phần mềm một dự án phần mềm hoặc là một sản phẩm
+	* Các chỉ số dự án
+- Cho phép người quản lý dự án phần mềm thực hiện các
++ Đánh giá được các tình trạng dự án đang diễn ra
++ Theo dõi các rủi ro tiềm ẩn 
++ Phát hiện các vùng vấn đề trước khi chúng trở lên nghiêm trọng
++ Điều chỉnh luồng công việc hoặc nhiệm vụ
++ Đánh giá khả năng kiểm soát chất lượng sản phẩm công việc phần mềm của nhóm dự án
+	* Số liệu đo lường phần mềm theo hướng kích thước được thu thập bằng cách xem xét các phần mềm đã được sản xuất
+- Số lỗi trên 1000 dòng code
+- Lỗi trên mỗi KLOC
+- Chi phí trên mỗi dòng code
+- Trang tài liệu cho KLOC
+- Công sức mỗi người dùng bỏ ra trên 1 tháng
+- Số lượng dòng code mỗi người có thể làm trong 1 tháng
+- Chi phí cho mỗi trang tài liệu
