@@ -1,0 +1,4 @@
+- Thiết kế 1 hệ thống phát triển và quản lý bằng mô hình scrum / ứng dụng jira
+- Mỗi tuần screen
+- Báo cáo: bản mềm, quay video thuyết minh
+- Deadline 21/09

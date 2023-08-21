@@ -18,11 +18,13 @@ Yếu tố quyết định cho chất lượng phần mềm
 - Xác định 1 tập các số liệu đo lường về quy trình, dự án, sản phẩm mà dễ dàng thu thập (thông thường được chuẩn hóa bằng cách sử dụng số liệu hướng kích thước hoặc hướng chức năng)
 - Kết quả được phân tích và so sánh với các số liệu trung bình trong quá khứ của các dự án tương tự đã thực hiện
 - Xu hướng được đánh giá và kết luận được tạo ra
+
 	* Các khái niệm
 - Một hành động đo lường cung cấp một chỉ số số lượng về mức độ số lượng kích thước, khả năng, kích cỡ của một vài thuộc tính nào đó của sản phẩm hoặc quy trình
 - Việc đo lường là hành động xác định một số liệu đo lường về mức độ mà một hệ thống thành phần hoặc quy trình
 - Một số liệu phần mềm liên quan đến các biện pháp riêng lẻ trong một số cách thức (số liệu quy trình, dự án và sản phẩm)
 - Chỉ số là một thước đo hoặc là sự kết hợp của các thước đo cung cấp hiểu biết về quy trình phần mềm một dự án phần mềm hoặc là một sản phẩm
+	
 	* Các chỉ số dự án
 - Cho phép người quản lý dự án phần mềm thực hiện các
 + Đánh giá được các tình trạng dự án đang diễn ra
@@ -30,6 +32,7 @@ Yếu tố quyết định cho chất lượng phần mềm
 + Phát hiện các vùng vấn đề trước khi chúng trở lên nghiêm trọng
 + Điều chỉnh luồng công việc hoặc nhiệm vụ
 + Đánh giá khả năng kiểm soát chất lượng sản phẩm công việc phần mềm của nhóm dự án
+
 	* Số liệu đo lường phần mềm theo hướng kích thước được thu thập bằng cách xem xét các phần mềm đã được sản xuất
 - Số lỗi trên 1000 dòng code
 - Lỗi trên mỗi KLOC

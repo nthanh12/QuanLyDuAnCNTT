@@ -1,0 +1,47 @@
+	* Số liệu đo lường phần mềm theo hướng chức năng
+- Số liệu đo lường phần mềm hướng chức năng sử dụng một đơn vị đo của tính năng được cung cấp bởi ứng dụng như 1 giá trị chuẩn hóa
+- "functionality": ko thể được đo lường trực tiếp mà phải được dẫn xuất gián tiếp bằng cách sử dụng các số lượng đo lường trực tiếp khác
+- Một số liệu đo có tên là "function point" được đề xuất. Dựa trên các số liệu đo lường có thể đếm được một cách trực tiếp về miền thông tin của phần mềm và các đánh giá về độ phức tạp của phần mềm
+	* 5 đặc điểm miền thông tin được xác định mà số lượng được cung cấp
+- Số lượng đầu vào của người dùng
+- Số lượng đầu ra của người dùng
+- Số lượng yêu cầu của người dùng
+- Số lượng tệp
+- Số lượng giao diện bên ngoài
+	* Chi tiết
+- Số lượng đầu vào của người dùng
+	Mỗi đầu vào của người dùng thì sẽ cung cấp dữ liệu định hướng ứng dụng riêng biệt cho phần mềm đều được tính. Đầu vào nên được phân biệt với yêu cầu và được tính riêng
+- Số lượng đầu ra của người dùng:
+	Mỗi đầu ra của người dùng thì sẽ cung cấp thông tin định hướng ứng dụng cho người dùng đều được tính. Trong ngữ cảnh này, đầu ra đề cập đến báo cáo, màn hình, thông báo lỗi, vv... Các mục dữ liệu riêng lẻ trong mục báo cáo thì không được tính riêng
+- Số lượng yêu cầu của người dùng
+	Một yêu cầu được định nghĩa là một đầu vào trực tiếp dẫn đến việc tạo ra một số phản hồi phần mềm ngay lập tức dưới dạng đầu ra trực tiếp. Mỗi yêu cầu riêng biệt được tính
+- Số lượng tệp:
+	Mỗi tệp logic là một nhóm dữ liệu logic có thể là một phần của cơ sở dữ liệu lớn hoặc một tệp riêng biệt sẽ được tính	
+- Số lượng giao diện bên ngoài
+	Tất cả giao diện có thể đọc được bằng máy được sử dụng để truyền thông tin đến hệ thống khác đều được tính
+	
+	* Cách tính điểm chức năng (function point - FP)
+	FP = count total [0.65 + 0.01 W(Fi)] - xích ma
+	* FI được dựa trên câu trả lời cho các câu hỏi sau
+1. Hệ thống yêu cầu sao lưu và phục hồi đáng tin cậy không?
+2. Có cần truyền dữ liệu không
+3. Có các chức năng xử lý phân tán không?
+4. Hiệu suất có quan trọng không?
+5. Hệ thống sẽ chạy trong một môi trường hiện có và được sử dụng nhiều không?
+6. Hệ thống có yêu cầu nhập liệu trực tiếp dữ liệu không?
+7. Việc nhập liệu trực tiếp có yêu cầu giao dịch đầu vào phải được xây dựng trên nhiều màn hình hoặc là thao tác không
+8. Các tập tin chính có được cập nhật trực tuyến không?
+9. Các dầu vào, đầu ra, tệp hoặc truy vấn có phức tạp không?
+10. Xử lý bên trong có phức tạp không?
+11. Mã nguồn có được thiết kế để tái sử dụng không?
+12. Chuyển đổi và cài đặt có bao gồm trong thiết kế không?
+13. Hệ thống có được thiết kế để cài đặt nhiều lần trong các tổ chức khác nhau không?
+14. Ứng dụng có được thiết kế để hỗ trợ người dùng thay đổi và dễ sử dụng không?
+(Mỗi câu hỏi này có thể được trả lời bằng thang điểm từ 0 đến 5)
+	
+	* Khi các điểm chức năng đã được tính toán, thì chúng được sử dụng theo một cách tương tự với LOC (line of code) như một cách để bình thường hóa các thước đo về năng suất, chất lượng và thuộc tính khác, vv..
+	- Error per FP: lỗi trên mỗi function point
+	- Defects per FP: 
+	- $ per FP: Chi phí trên mỗi FP
+	- Pages of documentation per FP
+	- FP per person-month
